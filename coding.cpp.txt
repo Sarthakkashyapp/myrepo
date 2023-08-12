@@ -1,0 +1,4 @@
+1.header file 
+2.body of the code
+3.execution part of the body
+4.exit
